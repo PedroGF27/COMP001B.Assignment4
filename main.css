@@ -1,0 +1,19 @@
+body {
+    background-color: #00843d;
+}
+
+img {
+    margin: auto;
+    width: 50%;
+    display: block;
+    padding-top: 200px;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    top: 100px;
+    background-color: #00843d;
+}
